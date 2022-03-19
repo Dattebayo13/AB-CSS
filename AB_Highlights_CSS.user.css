@@ -127,7 +127,8 @@
 .torrent-page > [data-group*="Astral"],
 .torrent-page > [data-group*="0x539"],
 .torrent-page > [data-group*="Some-Stuffs"],
-.torrent-page > [data-group="LostYears"]
+.torrent-page > [data-group="LostYears"],
+.torrent-page > [data-group="Chihiro"]
 {
     color: #5de6ee;
 }
@@ -152,7 +153,8 @@
 .torrent-page > [data-group="Lulu"],
 .torrent-page > [data-group="GHS"],
 .torrent-page > [data-group="Reza"],
-.torrent-page > [data-group="Baws"]
+.torrent-page > [data-group="Baws"],
+.torrent-page > [data-group="Netaro"]
 {
     color: #17e1a4;
 }
